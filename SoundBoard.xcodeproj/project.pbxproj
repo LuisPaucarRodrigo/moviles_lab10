@@ -14,6 +14,7 @@
 		28FB48BB2A1E68B000489FF4 /* SoundBoard.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 28FB48B92A1E68B000489FF4 /* SoundBoard.xcdatamodeld */; };
 		28FB48BD2A1E68B200489FF4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28FB48BC2A1E68B200489FF4 /* Assets.xcassets */; };
 		28FB48C02A1E68B200489FF4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28FB48BE2A1E68B200489FF4 /* LaunchScreen.storyboard */; };
+		28FB48C82A1E6E3B00489FF4 /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28FB48C72A1E6E3B00489FF4 /* SoundViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		28FB48BC2A1E68B200489FF4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		28FB48BF2A1E68B200489FF4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		28FB48C12A1E68B200489FF4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		28FB48C72A1E6E3B00489FF4 /* SoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				28FB48B22A1E68B000489FF4 /* SceneDelegate.swift */,
 				28FB48B42A1E68B000489FF4 /* ViewController.swift */,
 				28FB48B62A1E68B000489FF4 /* Main.storyboard */,
+				28FB48C72A1E6E3B00489FF4 /* SoundViewController.swift */,
 				28FB48BC2A1E68B200489FF4 /* Assets.xcassets */,
 				28FB48BE2A1E68B200489FF4 /* LaunchScreen.storyboard */,
 				28FB48C12A1E68B200489FF4 /* Info.plist */,
@@ -145,6 +148,7 @@
 				28FB48B52A1E68B000489FF4 /* ViewController.swift in Sources */,
 				28FB48B12A1E68B000489FF4 /* AppDelegate.swift in Sources */,
 				28FB48B32A1E68B000489FF4 /* SceneDelegate.swift in Sources */,
+				28FB48C82A1E6E3B00489FF4 /* SoundViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
